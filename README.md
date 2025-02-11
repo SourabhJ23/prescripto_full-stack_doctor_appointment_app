@@ -166,5 +166,7 @@ We welcome contributions! Please feel free to submit issues, fork the repository
 
 - Thanks to the developers and contributors of MongoDB, Express.js, React.js, Node.js, Stripe, and Razorpay for their fantastic tools and libraries.
 
+## Collaborators;
+- Aman and sourabh working on it. Learning GIT , GITHUB.
 ---
 
