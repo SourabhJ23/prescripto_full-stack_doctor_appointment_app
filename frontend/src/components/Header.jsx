@@ -1,5 +1,6 @@
 import React from 'react'
 import { assets } from '../assets/assets'
+import Spline from '@splinetool/react-spline';
 
 const Header = () => {
     return (
@@ -21,7 +22,8 @@ const Header = () => {
 
             {/* --------- Header Right --------- */}
             <div className='md:w-1/2 relative'>
-                <img className='w-full md:absolute bottom-0 h-auto rounded-lg' src={assets.header_img} alt="" />
+                {/* <img className='w-full md:absolute bottom-0 h-auto rounded-lg' src={assets.header_img} alt="" /> */}
+                <Spline scene="https://prod.spline.design/5JtkEgreg6hRTTnF/scene.splinecode" />
             </div>
         </div>
     )
